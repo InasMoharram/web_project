@@ -17,3 +17,10 @@
 	border-radius: 5px;
 	border-color: black ;
 }
+.row{
+	margin-top: 75px ;
+	margin-left:100px ;
+}
+#cat1{
+	font-size: 30px ;
+}
