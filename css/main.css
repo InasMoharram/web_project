@@ -24,3 +24,25 @@
 #cat1{
 	font-size: 30px ;
 }
+
+#cat2{
+	font-size: 30px ;
+}
+
+#vogue{
+	width: 300px ;
+	height: 350px ;
+	text-align: center;
+}
+
+.agazinecategories {
+
+	text-align: center;
+}
+
+.my-link {
+	background-color: white;
+}
+.links {
+	background-color: white;
+}
